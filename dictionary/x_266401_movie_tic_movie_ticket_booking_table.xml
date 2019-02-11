@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="movie ticket booking table" max_length="40" name="x_266401_movie_tic_movie_ticket_booking_table" type="collection"/>
+</database>
